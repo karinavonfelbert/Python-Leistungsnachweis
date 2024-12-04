@@ -1,7 +1,7 @@
-# Python-Leistungsnachweis
+*Python-Leistungsnachweis*
 
-Gruppe: Elena Stevanovic, Karina von Felbert, Jeremiah Otter
+*Gruppe:* Elena Stevanovic, Karina von Felbert, Jeremiah Otter
 
-Outline:
+*Outline:*
 
-Fragestellung:
+*Fragestellung:*
