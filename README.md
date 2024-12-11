@@ -11,5 +11,3 @@ Diese Angaben führen uns zu folgender Fragestellung:
 **Fragestellung:** Auf welchem Kontinent oder Land hat sich die Armutsrate am meisten verändert? Was sind Gründe dafür?
 
 **Quelle:** https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty
-
-This is a test
